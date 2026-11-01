@@ -1,0 +1,9 @@
+{
+  "name": "event-ticket-booking-system",
+  "version": "1.0.0",
+  "description": "Event Ticket Booking and Management System",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node --watch backend/server.js"
+  }
+}
